@@ -1,5 +1,5 @@
 # Zain-Ali
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Zain Ali] 👋
 -  I’m currently learning Full-Stack Developer
 -  I’m looking to collaborate on open-source projects
 -  How to reach me: [https://www.linkedin.com/in/zain-ali-2a5844306/]
